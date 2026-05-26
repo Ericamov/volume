@@ -1,4 +1,4 @@
-# volume# CS50 – Volume
+# CS50 – Volume
 
 ## Description
 
@@ -23,9 +23,9 @@ make volume
 
 ```
 ./volume input.wav output.wav 2.0
+```
 
 This doubles the volume of input.wav and saves the result as output.wav.
-```
 
 ## Concepts
 
